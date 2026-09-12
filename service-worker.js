@@ -13,7 +13,8 @@ const ASSETS_TO_CACHE = [
     './customer-cart.js',
     './firebase-config.js',
     './manifest.json',
-    './logo.png',
+    './logo-192.png',
+    './logo-512.png', 
     'https://cloudflare.com'
 ];
 
